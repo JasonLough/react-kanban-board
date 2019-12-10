@@ -1,9 +1,12 @@
 
 
 
-# H1
+# What is this?
 
 This is an (incomplete for now) version of a Kanban board made with react and react-bootstrap.
+
+![Screenshot](https://github.com/JasonLough/react-kanban-board/blob/master/public/screenshot.png?raw=true "Screenshot")
+
 
 ---
 
