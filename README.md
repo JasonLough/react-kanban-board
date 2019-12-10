@@ -1,3 +1,12 @@
+
+
+
+# H1
+
+This is an (incomplete for now) version of a Kanban board made with react and react-bootstrap.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
